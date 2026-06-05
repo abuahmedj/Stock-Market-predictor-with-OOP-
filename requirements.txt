@@ -1,0 +1,8 @@
+customtkinter
+matplotlib
+pandas
+yfinance
+scikit-learn
+textblob
+python-dotenv
+requests
